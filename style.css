@@ -23,8 +23,8 @@ p, li {
 
 .profile {
 	display: flex;
-	align-items: center; /* vertically aligns items */
-	gap: 1rem; /* adds space between items */
+	align-items: center;
+	gap: 1rem;
 }
 
 .text-group {
